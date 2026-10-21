@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-chirpy
 title: Alexander Torres
 description: My life as a graduate student
 email: torre280@msu.edu
@@ -8,5 +8,13 @@ social:
   #email: example@domain.com
   links:
     - https://orcid.org/0009-0008-7796-3987
-    
+
+# color scheme setting
+# note: empty will follow the system prefer color by default,
+# and there will be a toggle to switch the theme between dark
+# and light on the bottom left of the sidebar.
+# available options: light, dark
+theme_mode: dark
+
+# avatar on sidebar (supports local or CORS resources)
 avatar:  Alex_send_off_close_up.jpg
