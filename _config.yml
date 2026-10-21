@@ -1,2 +1,10 @@
 theme: jekyll-theme-minimal
 title: Alexander Torres
+description: My life as a graduate student
+email: torre280@msu.edu
+social:
+  # displayed as the default author of the posts and the copyright owner in the footer
+  name: Alex Torres
+  #email: example@domain.com
+  links:
+    - https://orcid.org/0009-0008-7796-3987
