@@ -1,20 +1,6 @@
 theme: jekyll-theme-minimal
 title: Alexander Torres
 description: My life as a graduate student
-email: torre280@msu.edu
-social:
-  # displayed as the default author of the posts and the copyright owner in the footer
-  name: Alex Torres
-  #email: example@domain.com
-  links:
-    - https://orcid.org/0009-0008-7796-3987
 
-# color scheme setting
-# note: empty will follow the system prefer color by default,
-# and there will be a toggle to switch the theme between dark
-# and light on the bottom left of the sidebar.
-# available options: light, dark
-theme_mode: dark
-
-# avatar on sidebar (supports local or CORS resources)
+# picture on sidebar
 logo:  Alex_send_off_close_up.jpg
